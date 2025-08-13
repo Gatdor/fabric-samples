@@ -14,3 +14,6 @@ organizations/peerOrganizations/*
 system-genesis-block/*
 *.tar.gz
 log.txt
+chaincode-backup/bigdatacc/bigdatacc_1.2.tar.gz
+chaincode-backup/bigdatacc/bigdatacc_1.2.tar.gz
+chaincode-backup/bigdatacc/bigdatacc_1.2.tar.gz
